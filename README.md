@@ -61,9 +61,6 @@ After editing the desired parts, if you want, just open the HTML file in the bro
 ## Acknowledgements
 
 * To [Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-nft-preview-card-with-flexbox-html-and-css-H1BbPdpM9) for the proposed challenge.
-## License
-
-This project is under license. See the [LICENSE](https://github.com/mvrquxs/nft-preview-card/blob/main/LICENSE) file for more details.
 
 [⬆ Back to top](#about-the-project)<br>
 
