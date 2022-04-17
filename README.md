@@ -9,7 +9,7 @@
 This project was created with the aim of being an NFT viewer.
 <br>In addition to being responsive on all devices, the project allows users to enjoy a good UX/UI experience.<br>
 `With activation effects !`
-
+- [Clique aqui](https://lucasmvrquxs.notion.site/NFT-Preview-Card-aed95dfdcff24f92a32e4395adb22dfe) para visualizar a versão em PT-BR ![Brazil Flag](https://i.imgur.com/q5kVDne.png) desse projeto. <br>
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
